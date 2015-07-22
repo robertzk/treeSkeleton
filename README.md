@@ -1,7 +1,6 @@
-R Package Template [![Build Status](https://travis-ci.org/robertzk/r-package-template.svg?branch=master)](https://travis-ci.org/robertzk/r-package-template) [![Coverage Status](https://coveralls.io/repos/robertzk/r-package-template/badge.svg?branch=master)](https://coveralls.io/r/robertzk/r-package-template)
+Tree structure traversal in R [![Build Status](https://travis-ci.org/robertzk/treeSkeleton.svg?branch=master)](https://travis-ci.org/robertzk/treeSkeleton) [![Coverage Status](https://coveralls.io/repos/robertzk/treeSkeleton/badge.svg?branch=master)](https://coveralls.io/r/robertzk/treeSkeleton)
 ===========
 
-This repository offers a basic template for R packages that already includes
-Travis and [covr](http://github.com/jimhester/covr) integration.
+A basic tree structure traversal implementation in R.
 
 
